@@ -1,0 +1,66 @@
+#page-footer{
+    background:rgb(173, 24, 94);
+    color: rgb(243, 243, 243);
+    margin:0px;
+    opacity:.9;
+    height: auto;
+    width: 100%;
+    padding: 50px 0px 50px 0px;
+    bottom: 0px;
+}
+h3 fg-primary span{
+    color: rgb(61, 2, 2);
+    font-size: 38px;
+    line-height: 80px;
+    padding: 0 140px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+  }
+
+.footer-logo{
+    top: 100px;
+    width: 300px;
+}
+
+.footer-information{
+    top: 100px;
+    width: 300px;
+}
+
+.footer-social{
+    top: 100px;
+    width: 300px;
+}
+
+.footer-newsletter{
+    top: 100px;
+    width: 400px;
+}
+.footercp{
+  text-align: center;
+}
+
+.socials{
+    list-style: none;
+    display: flex;
+    top: 100px;
+    width: 100px;
+    margin-left: -50px;
+  }
+  
+  .socials li{
+    margin: 10px 30px;
+  }
+  
+  .socials a{
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .socials a i{
+    font-size: 1.1rem;
+    transition: color .4s ease;
+  }
+
+
+  
